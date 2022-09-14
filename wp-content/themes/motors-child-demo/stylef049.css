@@ -1,0 +1,30 @@
+/*
+    Template: motors
+    Theme Name: Motors Child
+    Theme URI: https://motors.stylemixthemes.com/
+    Author: StylemixThemes
+    Author URI: https://stylemixthemes.com/
+    Description: Automotive, Cars, Vehicle, Boat Dealership, Classifieds WordPress Theme by StylemixThemes.
+    Version: 5.2.0
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, editor-style, sticky-post, theme-options
+	Text Domain: motors-child-theme
+*/
+
+#wpadminbar #wp-admin-bar-root-default #wp-admin-bar-stm-me-theme-options a img{
+    height: auto;
+    opacity: 1;
+    padding-top: 0px;
+    max-width: 18px;
+    vertical-align: middle;
+}
+
+#request-stm_vim_history  .vin_motors_check_modal_tabs {
+    display:flex !important;
+}
+
+#stm_vim_history .modal-body{
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
